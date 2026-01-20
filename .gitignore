@@ -19,3 +19,7 @@ build/
 
 # Файлы сбоев виртуальной машины Java
 hs_err_pid*
+
+target/
+.env
+bot_logs.txt
