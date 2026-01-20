@@ -1,0 +1,9 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal() // Указываем, что плагины нужно искать здесь
+        mavenCentral()
+    }
+}
+
+// Также хорошая практика - задать имя вашему проекту
+rootProject.name = 'fitness-bot'
